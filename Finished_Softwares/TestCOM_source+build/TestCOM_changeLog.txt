@@ -1,0 +1,30 @@
+*****************************************************
+*               TestCOM ChangeLog                   *
+*****************************************************
+
+****Ver 1.0.6****
+-Update the windows version number (not updated on version 1.0.5 & 1.0.4)
+
+****Ver 1.0.5****
+-Closing the main window with the 'X' (red button top right) also close the data file being saved properly (no file corruption or loss of data)
+
+
+****Ver 1.0.4****
+-Closing the main window with the 'X' (red button top right) now close properly the COM port opened
+
+
+****TestCOM V1.0.3****
+-Added the possibility to change the serial baudrate
+-Cleaned the code a bit
+
+
+****TestCOM V1.0.2****
+-Fixed bug causing impossibility to read the data from some computer (incompatible eol character) and crashing the app (infinite timeout)
+
+
+****TestCOM V1.0.1****
+-Added Scrolled text area
+
+
+****TestCOM V1.0****
+-First version of the software
